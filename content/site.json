@@ -1,0 +1,75 @@
+{
+	"version": 1,
+	"title": "Thierry Gallouet",
+	"description": "Professeur de Mathématiques — analyse numérique et équations aux dérivées partielles.",
+	"pageOrder": [
+		"home"
+	],
+	"navigation": [
+		{
+			"id": "nav-bio",
+			"label": "Biographie",
+			"target": {
+				"type": "anchor",
+				"anchorId": "bio"
+			}
+		},
+		{
+			"id": "nav-courses",
+			"label": "Enseignements",
+			"target": {
+				"type": "anchor",
+				"anchorId": "courses"
+			}
+		},
+		{
+			"id": "nav-books",
+			"label": "Ouvrages",
+			"target": {
+				"type": "anchor",
+				"anchorId": "books"
+			}
+		},
+		{
+			"id": "nav-research",
+			"label": "Recherche",
+			"target": {
+				"type": "anchor",
+				"anchorId": "research"
+			}
+		},
+		{
+			"id": "nav-contact",
+			"label": "Contact",
+			"target": {
+				"type": "anchor",
+				"anchorId": "contact"
+			}
+		}
+	],
+	"footer": {
+		"text": "© 2024 Thierry Gallouet • Aix-Marseille Université • Institut de Mathématiques de Marseille",
+		"links": [
+			{
+				"id": "footer-i2m",
+				"label": "I2M",
+				"target": {
+					"type": "url",
+					"href": "https://www.i2m.univ-amu.fr/",
+					"external": true
+				}
+			},
+			{
+				"id": "footer-amu",
+				"label": "Aix-Marseille Université",
+				"target": {
+					"type": "url",
+					"href": "https://www.univ-amu.fr/",
+					"external": true
+				}
+			}
+		]
+	},
+	"createdAt": "2026-06-04T00:00:00.000Z",
+	"updatedAt": "2026-06-04T00:00:00.000Z"
+}
