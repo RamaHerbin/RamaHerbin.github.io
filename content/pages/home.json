@@ -6,7 +6,7 @@
     "description": "Professeur de Mathématiques — analyse numérique et équations aux dérivées partielles.",
     "status": "published",
     "createdAt": "2026-06-04T00:00:00.000Z",
-    "updatedAt": "2026-06-06T23:24:16.369Z"
+    "updatedAt": "2026-06-06T23:25:11.366Z"
   },
   "body": [
     {
@@ -19,8 +19,8 @@
       "type": "domain-header",
       "props": {
         "anchorId": "home",
-        "name": "Thierry Gallouet",
-        "tagline": "Professeur de Mathématiques",
+        "name": "Rama test",
+        "tagline": "Software",
         "avatar": "",
         "showMathsBackground": false,
         "links": [
@@ -43,7 +43,7 @@
       "props": {
         "anchorId": "bio",
         "heading": "Biographie",
-        "body": "Thierry Gallouet est Professeur de Mathématiques, spécialisé dans l'analyse numérique et les équations aux dérivées partielles. Il enseigne dans plusieurs cycles universitaires, de la Licence au Master, couvrant un large spectre de disciplines mathématiques.\n\nSes domaines d'expertise incluent l'analyse fonctionnelle, la théorie de la mesure, l'intégration, les probabilités, l'analyse de Fourier, et l'analyse numérique des équations aux dérivées partielles. Il a une expérience particulière dans le calcul scientifique et les schémas numériques.\n\nIl contribue activement à la revue IJFV (International Journal of Finite Volumes) et a participé au développement de programmes d'enseignement innovants, incluant des téléenseignements pour rendre les mathématiques accessibles à distance.\n\n**Spécialisations**\n\n- Analyse numérique des EDP\n- Analyse fonctionnelle\n- Théorie de la mesure et probabilités\n- Calcul scientifique\n- Schémas pour Saint-Venant",
+        "body": "esure et probabilités\n- Calcul scientifique\n- Schémas pour Saint-Venant",
         "image": "",
         "imagePosition": "left"
       }
