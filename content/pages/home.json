@@ -1,356 +1,356 @@
 {
-	"version": 1,
-	"meta": {
-		"title": "Thierry Gallouet",
-		"slug": "home",
-		"description": "Professeur de Mathématiques — analyse numérique et équations aux dérivées partielles.",
-		"status": "published",
-		"createdAt": "2026-06-04T00:00:00.000Z",
-		"updatedAt": "2026-06-04T00:00:00.000Z"
-	},
-	"body": [
-		{
-			"id": "eLH3CPUZ2OB5lrkWcYmGp",
-			"type": "_maths-background",
-			"props": {}
-		},
-		{
-			"id": "uqLudW2n4ns4wtc0OK9MW",
-			"type": "domain-header",
-			"props": {
-				"anchorId": "home",
-				"name": "Thierry Gallouet",
-				"tagline": "Professeur de Mathématiques",
-				"avatar": "",
-				"showMathsBackground": false,
-				"links": [
-					{
-						"label": "Institut de Mathématiques de Marseille",
-						"href": "https://www.i2m.univ-amu.fr/",
-						"icon": "external-link"
-					},
-					{
-						"label": "LinkedIn",
-						"href": "https://linkedin.com/in/thierry-gallouët-28b5b06",
-						"icon": "linkedin"
-					}
-				]
-			}
-		},
-		{
-			"id": "UffMRwOn-Nq9wpXeuddpk",
-			"type": "domain-bio",
-			"props": {
-				"anchorId": "bio",
-				"heading": "Biographie",
-				"body": "Thierry Gallouet est Professeur de Mathématiques, spécialisé dans l'analyse numérique et les équations aux dérivées partielles. Il enseigne dans plusieurs cycles universitaires, de la Licence au Master, couvrant un large spectre de disciplines mathématiques.\n\nSes domaines d'expertise incluent l'analyse fonctionnelle, la théorie de la mesure, l'intégration, les probabilités, l'analyse de Fourier, et l'analyse numérique des équations aux dérivées partielles. Il a une expérience particulière dans le calcul scientifique et les schémas numériques.\n\nIl contribue activement à la revue IJFV (International Journal of Finite Volumes) et a participé au développement de programmes d'enseignement innovants, incluant des téléenseignements pour rendre les mathématiques accessibles à distance.\n\n**Spécialisations**\n\n- Analyse numérique des EDP\n- Analyse fonctionnelle\n- Théorie de la mesure et probabilités\n- Calcul scientifique\n- Schémas pour Saint-Venant",
-				"image": "",
-				"imagePosition": "left"
-			}
-		},
-		{
-			"id": "c-FDLggCHiGWPbNcNcNG_",
-			"type": "domain-courses",
-			"props": {
-				"anchorId": "courses",
-				"heading": "Enseignements",
-				"courses": [
-					{
-						"title": "Analyse fonctionnelle",
-						"level": "Master",
-						"term": "Première année de Master",
-						"year": "",
-						"description": "Master de mathématiques, 1ère année, université d'Aix-Marseille. Notes de cours et travaux dirigés.",
-						"url": "https://cel.hal.science/hal-04026364v3"
-					},
-					{
-						"title": "Analyse",
-						"level": "Licence",
-						"term": "Première année, deuxième semestre",
-						"year": "",
-						"description": "Limites, continuité, dérivées, intégration.",
-						"url": "https://hal.science/hal-04421072v1/document"
-					},
-					{
-						"title": "Calcul différentiel et optimisation",
-						"level": "Licence",
-						"term": "Troisième année de Licence",
-						"year": "1992",
-						"description": "Cours manuscrit, université de Chambéry 92-93.",
-						"url": "http://www.i2m.univ-amu.fr/~gallouet/licence.d/CDO.pdf"
-					},
-					{
-						"title": "EDP, cours manuscrit",
-						"level": "Licence",
-						"term": "Troisième année",
-						"year": "",
-						"description": "Cours d'équations aux dérivées partielles pour étudiants de Licence troisième année.",
-						"url": "http://www.i2m.univ-amu.fr/~gallouet/cours.d/edp-ens.pdf"
-					},
-					{
-						"title": "EDP",
-						"level": "Master",
-						"term": "Deuxième année de Master",
-						"year": "",
-						"description": "Équations aux dérivées partielles. Master de mathématiques, deuxième année, université d'Aix-Marseille.",
-						"url": "https://hal.science/cel-01196782v9"
-					},
-					{
-						"title": "Mesure, intégration, probabilités",
-						"level": "Licence et Master",
-						"term": "Troisième année de Licence et première année de Master",
-						"year": "",
-						"description": "Cours avec plus de 300 exercices corrigés.",
-						"url": "https://cel.hal.science/cel-00637007"
-					},
-					{
-						"title": "Récupération assistée des hydrocarbures",
-						"level": "Master",
-						"term": "Deuxième année de Master",
-						"year": "",
-						"description": "Master de mathématiques, université d'Aix-Marseille (DESS).",
-						"url": "http://www.i2m.univ-amu.fr/~gallouet/dess.d/cours.d/ifp/cours.pdf"
-					}
-				]
-			}
-		},
-		{
-			"id": "F6oR1Kw68LRqotPAoWd3t",
-			"type": "domain-books",
-			"props": {
-				"anchorId": "books",
-				"heading": "Ouvrages",
-				"books": [
-					{
-						"title": "Mesure, intégration, probabilités : cours avec plus de 300 exercices corrigés",
-						"publisher": "Ellipses",
-						"year": "2013",
-						"coverImage": "",
-						"url": "https://cel.hal.science/cel-00637007",
-						"isbn": ""
-					},
-					{
-						"title": "Weak Solutions of Partial Differential Equations",
-						"publisher": "",
-						"year": "2018",
-						"coverImage": "",
-						"url": "",
-						"isbn": ""
-					},
-					{
-						"title": "The Gradient Discretisation Method",
-						"publisher": "Springer",
-						"year": "2020",
-						"coverImage": "",
-						"url": "https://link.springer.com/book/10.1007/978-3-319-79042-8",
-						"isbn": "978-3-319-79042-8"
-					}
-				]
-			}
-		},
-		{
-			"id": "e-KMqFPGgPlNsnRt6546C",
-			"type": "domain-publications",
-			"props": {
-				"anchorId": "research",
-				"heading": "Recherche",
-				"groupByYear": true,
-				"publications": [
-					{
-						"title": "Finite volume methods",
-						"authors": "Eymard, Robert; Gallouët, Thierry; Herbin, Raphaèle",
-						"venue": "Handb. Numer. Anal., VII, North-Holland, Amsterdam, 713–1020",
-						"year": "2000",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1570865900070058?via%3Dihub"
-					},
-					{
-						"title": "An L1-theory of existence and uniqueness of solutions of nonlinear elliptic equations",
-						"authors": "Bénilan, Philippe; Boccardo, Lucio; Gallouët, Thierry; Gariepy, Ron; Pierre, Michel; Vázquez, Juan Luis",
-						"venue": "Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4) 22, no. 2, 241–273",
-						"year": "1995",
-						"doi": "",
-						"url": "https://www.numdam.org/item/?id=ASNSP_1995_4_22_2_241_0"
-					},
-					{
-						"title": "Nonlinear elliptic and parabolic equations involving measure data",
-						"authors": "Boccardo, Lucio; Gallouët, Thierry",
-						"venue": "J. Funct. Anal. 87, no. 1, 149–169",
-						"year": "1989",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/article/pii/0022123689900050?via%3Dihub"
-					},
-					{
-						"title": "Nonlinear elliptic equations with right-hand side measures",
-						"authors": "Boccardo, L.; Gallouët, T.",
-						"venue": "Comm. Partial Differential Equations 17, no. 3-4, 641–655",
-						"year": "1992",
-						"doi": "",
-						"url": "https://www.tandfonline.com/doi/abs/10.1080/03605309208820857"
-					},
-					{
-						"title": "Nonlinear Schrödinger evolution equations",
-						"authors": "Brézis, H.; Gallouet, T.",
-						"venue": "Nonlinear Anal. 4, no. 4, 677–681",
-						"year": "1980",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/article/abs/pii/0362546X80900681?via%3Dihub"
-					},
-					{
-						"title": "Nonlinear parabolic equations with measure data",
-						"authors": "Boccardo, Lucio; Dall'Aglio, Andrea; Gallouët, Thierry; Orsina, Luigi",
-						"venue": "J. Funct. Anal. 147, no. 1, 237–258",
-						"year": "1997",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/article/pii/S0022123696930402?via%3Dihub"
-					},
-					{
-						"title": "Existence and uniqueness of entropy solutions for nonlinear elliptic equations with measure data",
-						"authors": "Boccardo, Lucio; Gallouët, Thierry; Orsina, Luigi",
-						"venue": "Ann. Inst. H. Poincaré C Anal. Non Linéaire 13, no. 5, 539–551",
-						"year": "1996",
-						"doi": "",
-						"url": "https://ems.press/journals/aihpc/articles/4076443"
-					},
-					{
-						"title": "Discretization of heterogeneous and anisotropic diffusion problems on general nonconforming meshes (SUSHI)",
-						"authors": "Eymard, R.; Gallouët, T.; Herbin, R.",
-						"venue": "IMA J. Numer. Anal. 30, no. 4, 1009–1043",
-						"year": "2010",
-						"doi": "",
-						"url": "https://academic.oup.com/imajna/article-abstract/30/4/1009/701555"
-					},
-					{
-						"title": "Équations de champs scalaires euclidiens non linéaires dans le plan",
-						"authors": "Berestycki, Henri; Gallouët, Thierry; Kavian, Otared",
-						"venue": "C. R. Acad. Sci. Paris Sér. I Math. 297, no. 5, 307–310",
-						"year": "1983",
-						"doi": "",
-						"url": "https://www.i2m.univ-amu.fr/perso/thierry.gallouet/art.d/bgk83.pdf"
-					},
-					{
-						"title": "Some approximate Godunov schemes to compute shallow-water equations with topography",
-						"authors": "Gallouët, Thierry; Hérard, Jean-Marc; Seguin, Nicolas",
-						"venue": "Comput. & Fluids 32, no. 4, 479–513",
-						"year": "2003",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/article/abs/pii/S0045793002000117?via%3Dihub"
-					},
-					{
-						"title": "A unified approach to mimetic finite difference, hybrid finite volume and mixed finite volume methods",
-						"authors": "Droniou, Jérôme; Eymard, Robert; Gallouët, Thierry; Herbin, Raphaèle",
-						"venue": "Math. Models Methods Appl. Sci. 20, no. 2, 265–295",
-						"year": "2010",
-						"doi": "",
-						"url": "https://www.worldscientific.com/doi/10.1142/S0218202510004222"
-					},
-					{
-						"title": "The gradient discretisation method",
-						"authors": "Droniou, Jérôme; Eymard, Robert; Gallouët, Thierry; Guichard, Cindy; Herbin, Raphaèle",
-						"venue": "Math. Appl. (Berlin) 82, Springer, Cham, xxiv+497 pp.",
-						"year": "2018",
-						"doi": "",
-						"url": "https://link.springer.com/book/10.1007/978-3-319-79042-8"
-					},
-					{
-						"title": "Strongly nonlinear elliptic equations having natural growth terms and L1 data",
-						"authors": "Boccardo, L.; Gallouët, T.",
-						"venue": "Nonlinear Anal. 19, no. 6, 573–579",
-						"year": "1992",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/article/abs/pii/0362546X92900227?via%3Dihub"
-					},
-					{
-						"title": "Convergence of a finite volume scheme for nonlinear degenerate parabolic equations",
-						"authors": "Eymard, Robert; Gallouët, Thierry; Herbin, Raphaèle; Michel, Anthony",
-						"venue": "Numer. Math. 92, no. 1, 41–82",
-						"year": "2002",
-						"doi": "",
-						"url": "https://link.springer.com/article/10.1007/s002110100342"
-					},
-					{
-						"title": "Nonlinear elliptic equations in RN without growth restrictions on the data",
-						"authors": "Boccardo, Lucio; Gallouët, Thierry; Vázquez, Juan Luis",
-						"venue": "J. Differential Equations 105, no. 2, 334–363",
-						"year": "1993",
-						"doi": "",
-						"url": "https://www.sciencedirect.com/science/article/pii/S0022039683710922?via%3Dihub"
-					},
-					{
-						"title": "Anisotropic equations in L1",
-						"authors": "Boccardo, L.; Gallouët, T.; Marcellini, P.",
-						"venue": "Differential Integral Equations 9, no. 1, 209–212",
-						"year": "1996",
-						"doi": "",
-						"url": "https://mathscinet.ams.org/mathscinet/article?mr=0890450"
-					},
-					{
-						"title": "Existence and nonexistence of solutions for some nonlinear elliptic equations",
-						"authors": "Boccardo, Lucio; Gallouët, Thierry; Orsina, Luigi",
-						"venue": "J. Anal. Math. 73, 203–223",
-						"year": "1997",
-						"doi": "",
-						"url": "https://link.springer.com/article/10.1007/BF02788144"
-					},
-					{
-						"title": "Error estimates for the approximate solutions of a nonlinear hyperbolic equation given by finite volume schemes",
-						"authors": "Eymard, R.; Gallouët, T.; Ghilani, M.; Herbin, R.",
-						"venue": "IMA J. Numer. Anal. 18, no. 4, 563–594",
-						"year": "1998",
-						"doi": "",
-						"url": "https://academic.oup.com/imajna/article-abstract/18/4/563/748350"
-					}
-				]
-			}
-		},
-		{
-			"id": "olpODSAFnSXp95ZV7PGR-",
-			"type": "domain-contact",
-			"props": {
-				"anchorId": "contact",
-				"heading": "Contact",
-				"email": "thierry.gallouet@univ-amu.fr",
-				"address": "Institut de Mathématiques de Marseille (I2M), Aix-Marseille Université, Marseille, France",
-				"links": [
-					{
-						"label": "Institut de Mathématiques de Marseille",
-						"href": "https://www.i2m.univ-amu.fr/",
-						"icon": "external-link"
-					},
-					{
-						"label": "Université d'Aix-Marseille",
-						"href": "https://www.univ-amu.fr/",
-						"icon": "external-link"
-					},
-					{
-						"label": "HAL - Archives ouvertes",
-						"href": "https://hal.archives-ouvertes.fr/",
-						"icon": "external-link"
-					},
-					{
-						"label": "LinkedIn",
-						"href": "https://linkedin.com/in/thierry-gallouët-28b5b06",
-						"icon": "linkedin"
-					}
-				]
-			}
-		},
-		{
-			"id": "KLuWWGsw2n22sJq7TOo1J",
-			"type": "domain-footer",
-			"props": {
-				"text": "© 2024 Thierry Gallouet • Aix-Marseille Université • Institut de Mathématiques de Marseille",
-				"links": [
-					{
-						"label": "I2M",
-						"href": "https://www.i2m.univ-amu.fr/"
-					},
-					{
-						"label": "Aix-Marseille Université",
-						"href": "https://www.univ-amu.fr/"
-					}
-				]
-			}
-		}
-	]
+  "version": 1,
+  "meta": {
+    "title": "Thierry Gallouet",
+    "slug": "home",
+    "description": "Professeur de Mathématiques — analyse numérique et équations aux dérivées partielles.",
+    "status": "published",
+    "createdAt": "2026-06-04T00:00:00.000Z",
+    "updatedAt": "2026-06-06T23:19:44.215Z"
+  },
+  "body": [
+    {
+      "id": "eLH3CPUZ2OB5lrkWcYmGp",
+      "type": "_maths-background",
+      "props": {}
+    },
+    {
+      "id": "uqLudW2n4ns4wtc0OK9MW",
+      "type": "domain-header",
+      "props": {
+        "anchorId": "home",
+        "name": "Thierry Gallouet",
+        "tagline": "Professeur de Mathématiques",
+        "avatar": "",
+        "showMathsBackground": false,
+        "links": [
+          {
+            "label": "Institut de Mathématiques de Marseille",
+            "href": "https://www.i2m.univ-amu.fr/",
+            "icon": "external-link"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://linkedin.com/in/thierry-gallouët-28b5b06",
+            "icon": "linkedin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UffMRwOn-Nq9wpXeuddpk",
+      "type": "domain-bio",
+      "props": {
+        "anchorId": "bio",
+        "heading": "Biographie",
+        "body": "Thierry Gallouet est Professeur de Mathématiques, spécialisé dans l'analyse numérique et les équations aux dérivées partielles. Il enseigne dans plusieurs cycles universitaires, de la Licence au Master, couvrant un large spectre de disciplines mathématiques.\n\nSes domaines d'expertise incluent l'analyse fonctionnelle, la théorie de la mesure, l'intégration, les probabilités, l'analyse de Fourier, et l'analyse numérique des équations aux dérivées partielles. Il a une expérience particulière dans le calcul scientifique et les schémas numériques.\n\nIl contribue activement à la revue IJFV (International Journal of Finite Volumes) et a participé au développement de programmes d'enseignement innovants, incluant des téléenseignements pour rendre les mathématiques accessibles à distance.\n\n**Spécialisations**\n\n- Analyse numérique des EDP\n- Analyse fonctionnelle\n- Théorie de la mesure et probabilités\n- Calcul scientifique\n- Schémas pour Saint-Venant",
+        "image": "",
+        "imagePosition": "left"
+      }
+    },
+    {
+      "id": "c-FDLggCHiGWPbNcNcNG_",
+      "type": "domain-courses",
+      "props": {
+        "anchorId": "courses",
+        "heading": "Enseignements",
+        "courses": [
+          {
+            "title": "Analyse fonctionnelle",
+            "level": "Master",
+            "term": "Première année de Master",
+            "year": "",
+            "description": "Master de mathématiques, 1ère année, université d'Aix-Marseille. Notes de cours et travaux dirigés.",
+            "url": "https://cel.hal.science/hal-04026364v3"
+          },
+          {
+            "title": "Analyse",
+            "level": "Licence",
+            "term": "Première année, deuxième semestre",
+            "year": "",
+            "description": "Limites, continuité, dérivées, intégration.",
+            "url": "https://hal.science/hal-04421072v1/document"
+          },
+          {
+            "title": "Calcul différentiel et optimisation",
+            "level": "Licence",
+            "term": "Troisième année de Licence",
+            "year": "1992",
+            "description": "Cours manuscrit, université de Chambéry 92-93.",
+            "url": "http://www.i2m.univ-amu.fr/~gallouet/licence.d/CDO.pdf"
+          },
+          {
+            "title": "EDP, cours manuscrit",
+            "level": "Licence",
+            "term": "Troisième année",
+            "year": "",
+            "description": "Cours d'équations aux dérivées partielles pour étudiants de Licence troisième année.",
+            "url": "http://www.i2m.univ-amu.fr/~gallouet/cours.d/edp-ens.pdf"
+          },
+          {
+            "title": "EDP",
+            "level": "Master",
+            "term": "Deuxième année de Master",
+            "year": "",
+            "description": "Équations aux dérivées partielles. Master de mathématiques, deuxième année, université d'Aix-Marseille.",
+            "url": "https://hal.science/cel-01196782v9"
+          },
+          {
+            "title": "Mesure, intégration, probabilités",
+            "level": "Licence et Master",
+            "term": "Troisième année de Licence et première année de Master",
+            "year": "",
+            "description": "Cours avec plus de 300 exercices corrigés.",
+            "url": "https://cel.hal.science/cel-00637007"
+          },
+          {
+            "title": "Récupération assistée des hydrocarbures",
+            "level": "Master",
+            "term": "Deuxième année de Master",
+            "year": "",
+            "description": "Master de mathématiques, université d'Aix-Marseille (DESS).",
+            "url": "http://www.i2m.univ-amu.fr/~gallouet/dess.d/cours.d/ifp/cours.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "F6oR1Kw68LRqotPAoWd3t",
+      "type": "domain-books",
+      "props": {
+        "anchorId": "books",
+        "heading": "Ouvrages",
+        "books": [
+          {
+            "title": "Mesure, intégration, probabilités : cours avec plus de 300 exercices corrigés",
+            "publisher": "Ellipses",
+            "year": "2013",
+            "coverImage": "",
+            "url": "https://cel.hal.science/cel-00637007",
+            "isbn": ""
+          },
+          {
+            "title": "Weak Solutions of Partial Differential Equations",
+            "publisher": "",
+            "year": "2018",
+            "coverImage": "",
+            "url": "",
+            "isbn": ""
+          },
+          {
+            "title": "The Gradient Discretisation Method",
+            "publisher": "Springer",
+            "year": "2020",
+            "coverImage": "",
+            "url": "https://link.springer.com/book/10.1007/978-3-319-79042-8",
+            "isbn": "978-3-319-79042-8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e-KMqFPGgPlNsnRt6546C",
+      "type": "domain-publications",
+      "props": {
+        "anchorId": "research",
+        "heading": "Recherche",
+        "groupByYear": true,
+        "publications": [
+          {
+            "title": "Finite volume methods",
+            "authors": "Eymard, Robert; Gallouët, Thierry; Herbin, Raphaèle",
+            "venue": "Handb. Numer. Anal., VII, North-Holland, Amsterdam, 713–1020",
+            "year": "2000",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1570865900070058?via%3Dihub"
+          },
+          {
+            "title": "An L1-theory of existence and uniqueness of solutions of nonlinear elliptic equations",
+            "authors": "Bénilan, Philippe; Boccardo, Lucio; Gallouët, Thierry; Gariepy, Ron; Pierre, Michel; Vázquez, Juan Luis",
+            "venue": "Ann. Scuola Norm. Sup. Pisa Cl. Sci. (4) 22, no. 2, 241–273",
+            "year": "1995",
+            "doi": "",
+            "url": "https://www.numdam.org/item/?id=ASNSP_1995_4_22_2_241_0"
+          },
+          {
+            "title": "Nonlinear elliptic and parabolic equations involving measure data",
+            "authors": "Boccardo, Lucio; Gallouët, Thierry",
+            "venue": "J. Funct. Anal. 87, no. 1, 149–169",
+            "year": "1989",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/0022123689900050?via%3Dihub"
+          },
+          {
+            "title": "Nonlinear elliptic equations with right-hand side measures",
+            "authors": "Boccardo, L.; Gallouët, T.",
+            "venue": "Comm. Partial Differential Equations 17, no. 3-4, 641–655",
+            "year": "1992",
+            "doi": "",
+            "url": "https://www.tandfonline.com/doi/abs/10.1080/03605309208820857"
+          },
+          {
+            "title": "Nonlinear Schrödinger evolution equations",
+            "authors": "Brézis, H.; Gallouet, T.",
+            "venue": "Nonlinear Anal. 4, no. 4, 677–681",
+            "year": "1980",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/0362546X80900681?via%3Dihub"
+          },
+          {
+            "title": "Nonlinear parabolic equations with measure data",
+            "authors": "Boccardo, Lucio; Dall'Aglio, Andrea; Gallouët, Thierry; Orsina, Luigi",
+            "venue": "J. Funct. Anal. 147, no. 1, 237–258",
+            "year": "1997",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0022123696930402?via%3Dihub"
+          },
+          {
+            "title": "Existence and uniqueness of entropy solutions for nonlinear elliptic equations with measure data",
+            "authors": "Boccardo, Lucio; Gallouët, Thierry; Orsina, Luigi",
+            "venue": "Ann. Inst. H. Poincaré C Anal. Non Linéaire 13, no. 5, 539–551",
+            "year": "1996",
+            "doi": "",
+            "url": "https://ems.press/journals/aihpc/articles/4076443"
+          },
+          {
+            "title": "Discretization of heterogeneous and anisotropic diffusion problems on general nonconforming meshes (SUSHI)",
+            "authors": "Eymard, R.; Gallouët, T.; Herbin, R.",
+            "venue": "IMA J. Numer. Anal. 30, no. 4, 1009–1043",
+            "year": "2010",
+            "doi": "",
+            "url": "https://academic.oup.com/imajna/article-abstract/30/4/1009/701555"
+          },
+          {
+            "title": "Équations de champs scalaires euclidiens non linéaires dans le plan",
+            "authors": "Berestycki, Henri; Gallouët, Thierry; Kavian, Otared",
+            "venue": "C. R. Acad. Sci. Paris Sér. I Math. 297, no. 5, 307–310",
+            "year": "1983",
+            "doi": "",
+            "url": "https://www.i2m.univ-amu.fr/perso/thierry.gallouet/art.d/bgk83.pdf"
+          },
+          {
+            "title": "Some approximate Godunov schemes to compute shallow-water equations with topography",
+            "authors": "Gallouët, Thierry; Hérard, Jean-Marc; Seguin, Nicolas",
+            "venue": "Comput. & Fluids 32, no. 4, 479–513",
+            "year": "2003",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0045793002000117?via%3Dihub"
+          },
+          {
+            "title": "A unified approach to mimetic finite difference, hybrid finite volume and mixed finite volume methods",
+            "authors": "Droniou, Jérôme; Eymard, Robert; Gallouët, Thierry; Herbin, Raphaèle",
+            "venue": "Math. Models Methods Appl. Sci. 20, no. 2, 265–295",
+            "year": "2010",
+            "doi": "",
+            "url": "https://www.worldscientific.com/doi/10.1142/S0218202510004222"
+          },
+          {
+            "title": "The gradient discretisation method",
+            "authors": "Droniou, Jérôme; Eymard, Robert; Gallouët, Thierry; Guichard, Cindy; Herbin, Raphaèle",
+            "venue": "Math. Appl. (Berlin) 82, Springer, Cham, xxiv+497 pp.",
+            "year": "2018",
+            "doi": "",
+            "url": "https://link.springer.com/book/10.1007/978-3-319-79042-8"
+          },
+          {
+            "title": "Strongly nonlinear elliptic equations having natural growth terms and L1 data",
+            "authors": "Boccardo, L.; Gallouët, T.",
+            "venue": "Nonlinear Anal. 19, no. 6, 573–579",
+            "year": "1992",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/0362546X92900227?via%3Dihub"
+          },
+          {
+            "title": "Convergence of a finite volume scheme for nonlinear degenerate parabolic equations",
+            "authors": "Eymard, Robert; Gallouët, Thierry; Herbin, Raphaèle; Michel, Anthony",
+            "venue": "Numer. Math. 92, no. 1, 41–82",
+            "year": "2002",
+            "doi": "",
+            "url": "https://link.springer.com/article/10.1007/s002110100342"
+          },
+          {
+            "title": "Nonlinear elliptic equations in RN without growth restrictions on the data",
+            "authors": "Boccardo, Lucio; Gallouët, Thierry; Vázquez, Juan Luis",
+            "venue": "J. Differential Equations 105, no. 2, 334–363",
+            "year": "1993",
+            "doi": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0022039683710922?via%3Dihub"
+          },
+          {
+            "title": "Anisotropic equations in L1",
+            "authors": "Boccardo, L.; Gallouët, T.; Marcellini, P.",
+            "venue": "Differential Integral Equations 9, no. 1, 209–212",
+            "year": "1996",
+            "doi": "",
+            "url": "https://mathscinet.ams.org/mathscinet/article?mr=0890450"
+          },
+          {
+            "title": "Existence and nonexistence of solutions for some nonlinear elliptic equations",
+            "authors": "Boccardo, Lucio; Gallouët, Thierry; Orsina, Luigi",
+            "venue": "J. Anal. Math. 73, 203–223",
+            "year": "1997",
+            "doi": "",
+            "url": "https://link.springer.com/article/10.1007/BF02788144"
+          },
+          {
+            "title": "Error estimates for the approximate solutions of a nonlinear hyperbolic equation given by finite volume schemes",
+            "authors": "Eymard, R.; Gallouët, T.; Ghilani, M.; Herbin, R.",
+            "venue": "IMA J. Numer. Anal. 18, no. 4, 563–594",
+            "year": "1998",
+            "doi": "",
+            "url": "https://academic.oup.com/imajna/article-abstract/18/4/563/748350"
+          }
+        ]
+      }
+    },
+    {
+      "id": "olpODSAFnSXp95ZV7PGR-",
+      "type": "domain-contact",
+      "props": {
+        "anchorId": "contact",
+        "heading": "Contact",
+        "email": "thierry.gallouet@univ-amu.fr",
+        "address": "Institut de Mathématiques de Marseille (I2M), Aix-Marseille Université, Marseille, France",
+        "links": [
+          {
+            "label": "Institut de Mathématiques de Marseille",
+            "href": "https://www.i2m.univ-amu.fr/",
+            "icon": "external-link"
+          },
+          {
+            "label": "Université d'Aix-Marseille",
+            "href": "https://www.univ-amu.fr/",
+            "icon": "external-link"
+          },
+          {
+            "label": "HAL - Archives ouvertes",
+            "href": "https://hal.archives-ouvertes.fr/",
+            "icon": "external-link"
+          },
+          {
+            "label": "LinkedIn",
+            "href": "https://linkedin.com/in/thierry-gallouët-28b5b06",
+            "icon": "linkedin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KLuWWGsw2n22sJq7TOo1J",
+      "type": "domain-footer",
+      "props": {
+        "text": "© 2024 Thierry Gallouet • Aix-Marseille Université • Institut de Mathématiques de Marseille",
+        "links": [
+          {
+            "label": "I2M",
+            "href": "https://www.i2m.univ-amu.fr/"
+          },
+          {
+            "label": "Aix-Marseille Université",
+            "href": "https://www.univ-amu.fr/"
+          }
+        ]
+      }
+    }
+  ]
 }
